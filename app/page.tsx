@@ -8,6 +8,7 @@ export default function IndexPage() {
         <Intro />
         <About />
         <Projects />
+        <h1 className ="mt-4 text-sm opacity-50">Website with AI may not work due to OPEN-AI API policy</h1>
         <Contact />
       </div>
     </div>

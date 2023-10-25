@@ -24,7 +24,7 @@ export default function ProjectCard({
         />
       </Link>
 
-      <div className="p-2 pt-[2px]">
+      <div className="p-4 pt-[4px]">
         <div className="flex w-full items-center justify-between">
           <Link
             target="_blank"
@@ -58,7 +58,7 @@ export default function ProjectCard({
           </div>
         </div>
 
-        <p className="mt-[2px] text-base">{desc}</p>
+        <p className="mt-[4px] text-base">{desc}</p>
       </div>
     </div>
   );

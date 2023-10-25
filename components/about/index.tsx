@@ -24,7 +24,7 @@ export default function About() {
       {/* Technologies*/}
       <div className="group">
         <h1 className="title-bottom-line mt-20">Technologies</h1>
-        <div className="flex flex-wrap gap-2">
+        <div className="flex flex-wrap gap-4">
           {siteConfig.skillIcons.map((icon, idx) => (
             <Fragment key={idx}>
               <icon.Icon key={idx} className="h-11 w-11" />

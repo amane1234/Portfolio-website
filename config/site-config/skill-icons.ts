@@ -2,6 +2,10 @@ import { Icons } from "@/components/icons";
 
 export const skillIcons = [
   {
+    Icon: Icons.FinalCutPro,
+    title: "Final Cut Pro X",
+  },
+  {
     Icon: Icons.javascript,
     title: "Javascript",
   },
@@ -18,14 +22,6 @@ export const skillIcons = [
     title: "Nextjs",
   },
   {
-    Icon: Icons.tailwindCSS,
-    title: "TailwindCSS",
-  },
-  {
-    Icon: Icons.materialUI,
-    title: "MaterialUI",
-  },
-  {
     Icon: Icons.redux,
     title: "Redux",
   },
@@ -34,15 +30,19 @@ export const skillIcons = [
     title: "Nodejs",
   },
   {
-    Icon: Icons.expressjs,
-    title: "Expressjs",
-  },
-  {
-    Icon: Icons.prisma,
-    title: "Prisma",
-  },
-  {
     Icon: Icons.postgresql,
     title: "Postgresql",
+  },
+  {
+    Icon: Icons.PremierePro,
+    title: "Premiere Pro",
+  },
+  {
+    Icon: Icons.AfterEffect,
+    title: "After Effect",
+  },
+  {
+    Icon: Icons.Motion,
+    title: "Motion",
   },
 ];
