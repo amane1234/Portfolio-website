@@ -6,7 +6,7 @@ export const links = {
   facebook: "https://www.facebook.com/profile.php?id=100005244241400",
   instagram: "https://www.instagram.com/__thhm/",
   youtube: "https://www.youtube.com/@virtualkirinuki",
-  sourceCode: "https://github.com/amane1234/Personal-portfolio",
+  sourceCode: "https://github.com/amane1234/Portfolio-website",
 };
 
 export const socialLinks = [
