@@ -27,6 +27,6 @@ export const projects: Project[] = [
     title: "Notion-clone original",
     desc: "Note taking website",
     repo: "https://github.com/amane1234/Notion-clone",
-    preview: "https://notion-clone-nu.vercel.app/",
+    preview: "https://notion-clone-henna-beta.vercel.app/",
   },
 ];
